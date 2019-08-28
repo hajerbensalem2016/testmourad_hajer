@@ -135,21 +135,6 @@ namespace MicroRabbit.GestionCompresseur.Data.Migrations
                     b.ToTable("Fiche_Suivis");
                 });
 
-            modelBuilder.Entity("MicroRabbit.GestionCompresseur.Domain.Models.FilialeDup", b =>
-                {
-                    b.Property<int>("FilialeID")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Code");
-
-                    b.Property<string>("Nom");
-
-                    b.HasKey("FilialeID");
-
-                    b.ToTable("FilialesDup");
-                });
-
             modelBuilder.Entity("MicroRabbit.GestionCompresseur.Domain.Models.FournisseurDup", b =>
                 {
                     b.Property<int>("FournisseurID")

@@ -1,0 +1,16 @@
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.deps.json
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.runtimeconfig.json
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.runtimeconfig.dev.json
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.pdb
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Domain.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Domain.pdb
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.csprojAssemblyReference.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.csproj.CoreCompileInputs.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.AssemblyInfoInputs.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.AssemblyInfo.cs
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.csproj.CopyComplete
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.GestionCompresseur.Data.pdb

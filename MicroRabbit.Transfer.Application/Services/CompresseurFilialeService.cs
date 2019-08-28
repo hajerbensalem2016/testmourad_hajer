@@ -11,18 +11,35 @@ namespace MicroRabbit.GestionCompresseur.Application.Services
     public class CompresseurFilialeService : ICompresseurFilialeService
     {
         private readonly ICompresseurFilialeRepository _compresseurFilialeRepository;
-
-    public CompresseurFilialeService(ICompresseurFilialeRepository compresseurFilialeRepository)
-    {
+        public CompresseurFilialeService(ICompresseurFilialeRepository compresseurFilialeRepository)
+        {
             _compresseurFilialeRepository = compresseurFilialeRepository;
-        
-    }
+        }
+
+        public string DeleteCompresseurFiliale(int id)
+        {
+
+            return _compresseurFilialeRepository.DeleteCompresseurFiliale(id);
+        }
+
+        public CompresseurFiliale GetCompresseurFiliale(int id)
+        {
+            return _compresseurFilialeRepository.GetCompresseurFiliale(id);
+        }
 
         public IEnumerable<CompresseurFiliale> GetCompresseursFiliales()
         {
             return _compresseurFilialeRepository.GetCompresseursFiliales();
         }
 
-     
-}
+        public string PostCompresseurFiliale(CompresseurFiliale compresseurFiliale)
+        {
+            return _compresseurFilialeRepository.PostCompresseurFiliale(compresseurFiliale);
+        }
+
+        public string PutCompresseurFiliale(int id, CompresseurFiliale compresseurFiliale)
+        {
+            return _compresseurFilialeRepository.PutCompresseurFiliale(id, compresseurFiliale);
+        }
+    }
 }

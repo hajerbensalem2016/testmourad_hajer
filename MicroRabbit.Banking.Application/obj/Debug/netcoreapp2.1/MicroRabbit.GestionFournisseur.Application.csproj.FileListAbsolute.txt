@@ -1,0 +1,14 @@
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.deps.json
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.pdb
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Domain.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Domain.pdb
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.csprojAssemblyReference.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.csproj.CoreCompileInputs.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.AssemblyInfoInputs.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.AssemblyInfo.cs
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.csproj.CopyComplete
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.GestionFournisseur.Application.pdb

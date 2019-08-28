@@ -4,11 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using MediatR;
 using MicroRabbit.Domain.Core.Bus;
-
+using MicroRabbit.Infra.IoC;
 using MicroRabbit.GestionCompresseur.Data.Context;
 using MicroRabbit.GestionCompresseur.Domain.EventHandlers;
 using MicroRabbit.GestionCompresseur.Domain.Events;
-using MicroRabbit.Infra.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -86,8 +85,7 @@ namespace MicroRabbit.GestionCompresseur.Api
         private void ConfigureEventBus(IApplicationBuilder app)
         {
             var eventBus = app.ApplicationServices.GetRequiredService<IEventBus>();
-           eventBus.Subscribe<CreationDoneEvent, CreationEventHandler>();
-            eventBus.Subscribe<SendListeCreateEvent, FilialeEventHandler>();
+            eventBus.Subscribe<CreationDoneEvent, CreationEventHandler>();
         }
     }
 }

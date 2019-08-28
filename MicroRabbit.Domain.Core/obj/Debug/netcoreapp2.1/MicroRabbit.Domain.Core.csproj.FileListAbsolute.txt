@@ -1,0 +1,8 @@
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.deps.json
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\04809975\Desktop\SuiviCompresseurAirProjet\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb

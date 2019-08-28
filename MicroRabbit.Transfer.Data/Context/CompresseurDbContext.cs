@@ -18,7 +18,5 @@ namespace MicroRabbit.GestionCompresseur.Data.Context
         public DbSet<FicheCompresseur> FicheCompresseurs { get; set; }
         public DbSet<FournisseurDup> FournisseursDup { get; set; }
         public DbSet<GRH> GRHs { get; set; }
-        //hajer
-        public DbSet<FilialeDup> FilialesDup{ get; set; }
     }
 }
